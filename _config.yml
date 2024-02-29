@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "CHENG Shu"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://github.com/Chen-Sue # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://chen-sue.github.io/shucheng/"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,9 +22,9 @@ repository               : "https://chen-sue.github.io/shucheng/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "CHENG Shu (程术) "
-  pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "CHENG Shu (程术)"
+  pronouns         : # example: "she/her"  
+  bio              : "Research Scientist"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
